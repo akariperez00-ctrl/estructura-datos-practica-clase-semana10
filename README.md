@@ -4,9 +4,9 @@ Repositorio general para el almacenamiento y entrega de las prácticas desarroll
 
 ## 📌 Detalles Generales
 
-* **Curso:** Estructura de Datos[cite: 4]
-* **Lenguaje:** Java[cite: 4]
-* **Autor:** Naith Pérez Miranda[cite: 4]
+* **Curso:** Estructura de Datos
+* **Lenguaje:** Java
+* **Autor:** Naith Pérez Miranda
 
 ---
 
@@ -16,19 +16,17 @@ El repositorio está organizado por carpetas correspondientes a cada práctica o
 
 | Entrega | Descripción | Tema Principal | Fecha Límite | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Práctica 1 (Semana 10)**[cite: 4] | Ejercicios desarrollados en la sesión de clase[cite: 4]. | Estructuras y algoritmos de la lección[cite: 4] | Completado | ✅ |
-| **Segunda Práctica**[cite: 3] | Segunda práctica de implementación de estructuras de datos[cite: 3]. | Árbol B+ (`ArbolBMas`)[cite: 3] | 22 de noviembre de 2026[cite: 3] | ⏳ |
-| **Tercera Práctica**[cite: 5] | Tercera práctica de implementación de estructuras de datos[cite: 5]. | Implementación de estructuras (Consigna 3)[cite: 5] | 29 de noviembre de 2026[cite: 5] | ⏳ |
+| **Práctica 1 (Semana 10)** | Ejercicios desarrollados en la sesión de clase. | Estructuras y algoritmos de la lección | Completado | ✅ |
+| **Segunda Práctica** | Segunda práctica de implementación de estructuras de datos. | Árbol B+ (`ArbolBMas`) | 22 de noviembre de 2026 | ⏳ |
+| **Tercera Práctica** | Tercera práctica de implementación de estructuras de datos. | Implementación de Min-Heap | 29 de noviembre de 2026 | ⏳ |
 
 ---
 
 ## 🛠️ Estructura de Carpetas Sugerida
 
-Para mantener el repositorio ordenado ahora que incluye múltiples entregas, te recomiendo organizar tus archivos así:
-
 ```text
 📦 Estructura-de-Datos
  ┣ 📂 semana-10-practica-clase
  ┣ 📂 practica-2-arbol-b-mas
- ┣ 📂 practica-3-implementacion
+ ┣ 📂 practica-3-min-heap
  ┗ 📜 README.md
